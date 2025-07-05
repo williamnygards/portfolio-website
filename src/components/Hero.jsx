@@ -53,10 +53,10 @@ const Hero = () => {
           <a href="">{linkedInIcon}</a>
         </span>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam,
-          ullam.
+          Bachelors's degree in Computer Science with a focus on AI, but eager
+          to learn and grow in all areas of software development.
         </p>
-        <a href="" download>
+        <a href="./CV.pdf" download>
           <button className="hover">Resume</button>
         </a>
       </div>
